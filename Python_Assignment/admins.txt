@@ -1,0 +1,3 @@
+dhan,P@ssword0
+admin,admin
+hari,hari

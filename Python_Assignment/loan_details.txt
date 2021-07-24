@@ -1,0 +1,4 @@
+Education Loan (HL),11.32%,12.32%,-
+Car Loan (CL),11.02%,12.52%,-
+Home Loan (HL),11.32%,12.32%,12.50%
+Personal Loan (PL),10.50%,11.50%,-

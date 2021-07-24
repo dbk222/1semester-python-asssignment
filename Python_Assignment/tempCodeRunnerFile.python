@@ -1,0 +1,8 @@
+def foo(f):
+    print("Running parameter f().")
+    f()
+
+def bar():
+    print ("In bar().")
+
+foo(bar)
